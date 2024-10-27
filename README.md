@@ -8,7 +8,7 @@ The Hotel Recommendations Project aims to develop a system that suggests suitabl
 - The project uses a dataset comprising various attributes related to hotels, including Hotel_Name, Hotel_Address, Average_Score, Tags, and user-generated reviews.
 - The dataset is processed to ensure quality and completeness, including handling missing values and normalizing text data.
 
-2)Methodology:
+2) Methodology:
 - Recommendation Algorithms: Two primary approaches are employed:
 1. Content-Based Filtering: This method recommends hotels based on similarities in hotel features and tags related to user preferences.
 2. Collaborative Filtering: This approach uses past user behavior and ratings to identify hotels preferred by similar users.
@@ -19,7 +19,7 @@ The Hotel Recommendations Project aims to develop a system that suggests suitabl
 - The model is implemented using Python with libraries like Pandas for data manipulation, NLTK for text processing, and Scikit-learn for similarity calculations and machine learning functionalities.
 - Users can input their preferences (e.g., desired location and type of accommodation), and the system provides a ranked list of recommended hotels based on their criteria.
 
-4)Evaluation:
+4) Evaluation:
 - The performance of the recommendation system is assessed using metrics such as precision and recall, considering user feedback and satisfaction levels.
 - User testing is conducted to gather insights and refine the recommendation algorithms further.
 
